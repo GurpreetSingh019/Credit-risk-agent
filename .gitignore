@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables & Secrets
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# ChromaDB & Temp Files
+chroma_db/
+.chroma/
+temp_report.pdf
+*.tmp
